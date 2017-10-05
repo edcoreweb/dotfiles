@@ -1,0 +1,8 @@
+[user]
+	name = Eduard Tofan
+	email = edcoreweb@gmail.com
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	required = true
+	clean = git-lfs clean -- %f
+	process = git-lfs filter-process

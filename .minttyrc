@@ -1,0 +1,13 @@
+BoldAsFont=no
+Columns=134
+Rows=40
+Transparency=off
+OpaqueWhenFocused=no
+FontSmoothing=full
+Font=Consolas
+FontHeight=11
+FontIsBold=no
+BackgroundColour=30,35,48
+CursorType=underscore
+Scrollbar=right
+ConfirmExit=no
